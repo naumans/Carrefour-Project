@@ -1,0 +1,13 @@
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 900px;
+  height: 500px;
+}
+
+.myCarousel
+
+{
+margin left: 100px;
+}
